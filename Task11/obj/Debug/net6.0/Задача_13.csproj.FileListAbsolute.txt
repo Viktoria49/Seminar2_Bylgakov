@@ -1,0 +1,15 @@
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\bin\Debug\net6.0\Задача_13.exe
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\bin\Debug\net6.0\Задача_13.deps.json
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\bin\Debug\net6.0\Задача_13.runtimeconfig.json
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\bin\Debug\net6.0\Задача_13.dll
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\bin\Debug\net6.0\Задача_13.pdb
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.csproj.AssemblyReference.cache
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.AssemblyInfoInputs.cache
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.AssemblyInfo.cs
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.csproj.CoreCompileInputs.cache
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.dll
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\refint\Задача_13.dll
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.pdb
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\Задача_13.genruntimeconfig.cache
+C:\Users\datat\OneDrive\Рабочий стол\Разработчик\C# Семинар 2 Языки прогр\Task11\obj\Debug\net6.0\ref\Задача_13.dll
